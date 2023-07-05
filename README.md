@@ -12,8 +12,12 @@ Screenshots -
 Steps To Use -
 
 1.Select The Time Zone from Jcombo Box.
+
 2. Click on convert button.
-3. Enjoy the results.
+  
+4. Enjoy the results.
+   
 For More Exciting Projects Connect On LinkedIN--
+
 
 www.linkedin.com/in/sparsh-agarwal-5a0726212
